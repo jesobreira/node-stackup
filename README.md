@@ -46,3 +46,4 @@ Error: Something went wrong
 I haven't really tested this yet.
 
 - it may die horribly if you throw a non-object
+- (@jesobreira) this is a fork that only removes the "main" field from package.json to hide the warning in the console

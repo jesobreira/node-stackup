@@ -1,5 +1,5 @@
 {
-  "name": "stackup",
+  "name": "@jesobreira/stackup",
   "version": "1.0.2",
   "description": "Long stack traces based on async listeners",
   "author": "Jacob Groundwater <groundwater@gmail.com>",
